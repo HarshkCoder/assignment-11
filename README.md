@@ -1,7 +1,7 @@
 # Introduction
 
 - Name - Harsh Jain
-- Email - [harshkmjain3@gmail.com]
+- Email - harshkmjain3@gmail.com
 
 ## Fetch Users using Redux Async Thunk
 
