@@ -94,7 +94,7 @@ It defines how the application's state changes in response to dispatched actions
 ---
 
 ## **4. How does createAsyncThunk() help in Redux Toolkit?**
-**Answer:**createAsyncThunk() simplifies handling asynchronous operations (like API calls) by automatically generating pending, fulfilled, and rejected action types.
+**Answer:** createAsyncThunk() simplifies handling asynchronous operations (like API calls) by automatically generating pending, fulfilled, and rejected action types.
 It reduces boilerplate and integrates smoothly with slices for managing loading and error states.
 
 ---
